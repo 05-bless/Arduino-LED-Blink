@@ -16,6 +16,6 @@ The Arduino sends HIGH and LOW signals to blink the LED at 1-second intervals.
 Author
 BLESSIE M
 
-Project Demo
-https://github.com/05-bless/Arduino-LED-Blink/blob/c6fc53dd91723bfee8e8231efad6a588724f14d5/led1.mp4
+Project Demonstration
+Watch video - https://drive.google.com/file/d/1CQujqaavrZ8QDy7qRy1vAtNZa6pED7nj/view?usp=drivesdk
 
