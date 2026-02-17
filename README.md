@@ -5,10 +5,10 @@ Overview :
 This project demonstrates basic embedded programming using Arduino to blink an LED.
 
 Components Used :
-- Arduino UNO
-- LED
-- Resistor
-- Jumper wires
+ Arduino UNO
+ LED
+ Resistor
+ Jumper wires
 
 Working :
 The Arduino sends HIGH and LOW signals to blink the LED at 1-second intervals.
@@ -45,9 +45,9 @@ Learning Outcome :
 
 Through this project, I learned:
 
-- Basic microcontroller programming
-- Digital output control
-- Circuit connections and debugging
-- Using GitHub for project documentation
+ Basic microcontroller programming
+ Digital output control
+ Circuit connections and debugging
+ Using GitHub for project documentation
 
 
