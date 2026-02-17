@@ -7,8 +7,8 @@ This project demonstrates basic embedded programming using Arduino to blink an L
 Components Used :
  Arduino UNO
  LED
- Resistor
  Jumper wires
+ Resistor(220Ω)
 
 Working :
 The Arduino sends HIGH and LOW signals to blink the LED at 1-second intervals.
